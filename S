@@ -1,0 +1,5 @@
+[33mcommit 8662ecadd54c0a37b4184de9a8287ddab085c516[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Harsh Kandu <harsh.kandu@nimapinfotech.com>
+Date:   Thu Aug 14 18:55:56 2025 +0530
+
+    Monolithic Achitecture
